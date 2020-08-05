@@ -1,0 +1,13 @@
+h1 {
+    color:red;
+}
+.row {
+    padding: 100px;
+    color: green;
+}
+
+.row-height {
+    height: 70px;
+    text-align: center;
+    padding-top: 20px;
+}
